@@ -6,7 +6,7 @@ public class Kelipatan6 {
         int i = 0;
         int  batasAwal,batasAkhir;
 
-        System.out.print("Masukan Batas Akhir Anda: ");
+        System.out.print("Masukan Batas Awal Anda: ");
         batasAwal = input.nextInt();
         System.out.print("Masukan Batas Akhir Anda: ");
         batasAkhir = input.nextInt();
